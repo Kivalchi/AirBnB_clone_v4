@@ -178,9 +178,9 @@ No known bugs at this time.
 
 ## Authors
 
+Nwanya Chinedu (nwanyac.k@gmail.com)
+Ifeanyi Joseph
 
-
-Second part of Airbnb: Joann Vuong
 
 ## License
 
